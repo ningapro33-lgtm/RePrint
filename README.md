@@ -4,7 +4,6 @@
 > **Obour STEM School | Grade 11 | Semester 1 (2025/2026)**
 
 ![Project Banner](https://via.placeholder.com/1000x300?text=Reprint+Project+Banner) 
-*(Replace this link with a photo of your actual printer!)*
 
 ## 📜 Abstract
 Egypt faces a sharp increase in electronic waste. **Reprint** addresses this by diverting hazardous e-waste from landfills and repurposing it into a functional scientific tool. We designed and built a **Prusa-style Cartesian 3D printer** using **70% recycled components** (scavenged from obsolete inkjet printers, scanners, and PCs) and a custom-milled 18mm wooden frame.
